@@ -6,7 +6,8 @@ body
 
 	.player_1_div , .player_2_div
 	{
-		background: white;
+        width:60%;
+		background: brown;
 		padding: 10px;
 		float: none;
 		border-radius: 15px;
@@ -28,7 +29,7 @@ body
 }
 #output
 {
-background: white;
+background: red;
 border-radius: 10px;
 border-top: 10px solid #AA4465;
 padding: 10px;
